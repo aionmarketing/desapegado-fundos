@@ -1,0 +1,54 @@
+{
+  "kind": "dated visual handoff reference snapshot, not operational project state",
+  "date": "2026-11-04",
+  "files": [
+    {
+      "file": "referencias/beach-desktop.webp",
+      "source": "C:\\Users\\azeve\\orca\\workspaces\\dspgd-mobile-cinematic\\argon-product-trial\\public\\art\\editions\\beach-owner-045-desktop.webp",
+      "sha256": "8abbca6dec5aab1691b9220bd1aaea39d9978329837bc2256d5ab1009460af9a",
+      "bytes": 2649076
+    },
+    {
+      "file": "referencias/beach-mobile.webp",
+      "source": "C:\\Users\\azeve\\orca\\workspaces\\dspgd-mobile-cinematic\\argon-product-trial\\public\\art\\editions\\beach-owner-045-mobile.webp",
+      "sha256": "622791812ed7bf5f3988f136c4ff036d5a2374b047a98a8e368dcd2f71c199b4",
+      "bytes": 1096066
+    },
+    {
+      "file": "referencias/trail-desktop.webp",
+      "source": "C:\\Users\\azeve\\orca\\workspaces\\dspgd-mobile-cinematic\\argon-product-trial\\public\\art\\editions\\trail-forest-044-1536.webp",
+      "sha256": "15d464458cc7f0789eec99bc44ff03837bab90ca83af3342c2eed073b55cd1d0",
+      "bytes": 737428
+    },
+    {
+      "file": "referencias/trail-mobile.webp",
+      "source": "C:\\Users\\azeve\\orca\\workspaces\\dspgd-mobile-cinematic\\argon-product-trial\\public\\art\\editions\\trail-forest-044-mobile.webp",
+      "sha256": "08573fe60c7a0e9532b7994418c15da26563fd4efb030484bf0087fd01a793c5",
+      "bytes": 766416
+    },
+    {
+      "file": "referencias/trekking-base.jpg",
+      "source": "C:\\Users\\azeve\\orca\\workspaces\\dspgd-mobile-cinematic\\argon-product-trial\\public\\art\\editions\\altitude-1440.jpg",
+      "sha256": "ac1c871d4685409ca907c0db99ab73e5a20f93fbe2f930695920406d3c425ca5",
+      "bytes": 168717
+    },
+    {
+      "file": "referencias/collections-desktop.webp",
+      "source": "C:\\Users\\azeve\\orca\\workspaces\\dspgd-mobile-cinematic\\argon-product-trial\\public\\art\\editions\\collections-tunnel-049-desktop.webp",
+      "sha256": "6fb580d4e4715c467756b4c933a7fd70fdb72771766c71cd3fac86e7c677346a",
+      "bytes": 408038
+    },
+    {
+      "file": "referencias/collections-mobile.webp",
+      "source": "C:\\Users\\azeve\\orca\\workspaces\\dspgd-mobile-cinematic\\argon-product-trial\\public\\art\\editions\\collections-tunnel-049-mobile.webp",
+      "sha256": "7dc9e8b472f5b2075d4767d75254146fb0c2410183dde47468aab0b19c762d31",
+      "bytes": 436554
+    },
+    {
+      "file": "referencias/interface-collections.png",
+      "source": "C:\\Users\\azeve\\AppData\\Local\\Temp\\codex-clipboard-2dbd828f-87ea-4a7f-8d37-af106eb31074.png",
+      "sha256": "d8527d0f7aa26124b3bfa6e0fb8b268894587c232c56d28f37b5124f32fe3d4c",
+      "bytes": 657091
+    }
+  ]
+}
